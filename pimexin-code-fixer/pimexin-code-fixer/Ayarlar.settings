@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="pimexin_code_fixer" GeneratedClassName="Ayarlar">
+  <Profiles />
+  <Settings>
+    <Setting Name="CssConfigPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\cagdasa\Desktop\css.config.txt</Value>
+    </Setting>
+    <Setting Name="HmlConfigPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\cagdasa\Desktop\html.config.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

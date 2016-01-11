@@ -1,0 +1,45 @@
+<p>,<p class="pimexin-p"> 
+<h1>,<h1 class="pimexin-h1">
+<h2>,<h2 class="pimexin-h2">
+<h3>,<h3 class="pimexin-h3">
+<h4>,<h4 class="pimexin-h4">
+<h5>,<h5 class="pimexin-h5">
+<h6>,<h6 class="pimexin-h6">
+<h7>,<h7 class="pimexin-h7">
+<div>,<div class="pimexin-div">
+<body>,<div class="pimexin-content">
+</body>,</div>
+<strong>,<strong class="pimexin-strong">
+<b>,<b class="pimexin-b">
+<hr>,<hr class="pimexin-hr">
+<img>,<img class="pimexin-img">
+<html>,<html class="pimexin-html">
+<a>,<a class="pimexin-a">
+<p>,<p class="pimexin-p">
+<blockquote>,<blockquote class="pimexin-blockquote">
+<ul>,<ul class="pimexin-ul">
+<ol>,<ol class="pimexin-ol">
+<fieldset>,<fieldset class="pimexin-fieldset">
+<button>,<button class="pimexin-button">
+<label>,<label class="pimexin-label">
+<img class=",<img class="pimexin-img 
+<img src=",<img class="pimexin-img" src="
+imgpimexin,img pimexin
+pimexin-w-pimexin-,pimexin-w-
+feature-text arzum-border,feature-text-arzum-border
+<h2 class=",<h2 class="pimexin-h2
+<h1 class=",<h1 class="pimexin-h1
+<h3 class=",<h3 class="pimexin-h3
+<h4 class=",<h4 class="pimexin-h4
+<h5 class=",<h5 class="pimexin-h5
+<h6 class=",<h6 class="pimexin-h6
+h1pimexin,h1 pimexin
+h2pimexin,h2 pimexin
+h3pimexin,h3 pimexin
+h4pimexin,h4 pimexin
+h5pimexin,h5 pimexin
+h6pimexin,h6 pimexin
+<p class=",<p class="pimexin-p
+<div class=",<div class="pimexin-div
+ppimexin,p pimexin
+divpimexin,div pimexin
